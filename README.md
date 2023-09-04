@@ -1,6 +1,6 @@
 # Octave till kursen LAATS HT23
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/binder-examples/octave/master?filepath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ubik60/laats/HEAD)
 
 An example of using Octave on [mybinder.org](https://mybinder.org/).
 
